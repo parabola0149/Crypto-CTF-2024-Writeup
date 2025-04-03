@@ -1,0 +1,8 @@
+$ nc 00.cr.yp.toc.tf 17371
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Welcome to Ahoo task! Given integer n, find the smallest positive   ┃
+┃ integer c such that n * c has the minimum number of 1 bits in its   ┃
+┃ binary representation. Completing all steps will reveal the flag :) ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┃ Please send the number of 1 bits in n * c and the integer c for
+┃ n = 4092, separated by comma: 
